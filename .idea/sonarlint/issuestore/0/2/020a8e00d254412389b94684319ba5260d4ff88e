@@ -1,0 +1,11 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ίήγ1
+g	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8‹ίήγ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ίϋ‘Òϋÿÿÿÿ8”ίήγ1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8’ίήγ1
+X	java:S125$"<This block of commented-out lines of code should be removed.(ΐ±΅™8Ηήγ1
+`
+java:S1155%">Use isEmpty() to check whether the collection is empty or not.(Υ‡ά‹ϊÿÿÿÿ8”ίήγ1
+{
+java:S2142)"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8•ίήγ1
